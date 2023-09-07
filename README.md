@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SanjayDK3669
+- 👋 Hi, I’m @SanjayDK369
 - 👀 I’m interested in Coding and Data science
 - 🌱 I’m currently learning final year Bsc [Statistics and Computer Science]
 - 💞️ I’m looking to collaborate on ...
