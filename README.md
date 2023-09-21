@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SanjayDK369
-- 👀 I’m interested in Coding and Data science
+- 👀 I’m interested in  Data science
 - 🌱 I’m currently learning final year Bsc [Statistics and Computer Science]
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me to dksanjay39@gmail.com
