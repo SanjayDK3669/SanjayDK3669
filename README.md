@@ -15,9 +15,7 @@
 ### 🧠 About Me  
 🎓 I’m pursuing an **MSc in Data Science** from *Mangalore*.  
 💡 I’m passionate about **Machine Learning**, **NLP**, and **Computer Vision** — with a goal to build **real-world AI solutions**.  
-🚀 Currently improving my ML expertise (35–40% ➜ aiming for 70%+) while working on:  
-- 🧭 Smart agriculture devices for 1-2 acre lands (budget under ₹5,000)  
-- ☁️ Cloud-based MSME solutions with automation and insights  
+🚀 Currently improving my ML expertise (35–40% ➜ aiming for 70%+) while working on: 
 - 🧰 Full-stack AI projects & MLOps pipelines  
 
 ---
