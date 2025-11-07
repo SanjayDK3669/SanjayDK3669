@@ -74,9 +74,7 @@
 
 ### 🏆 Achievements & Highlights  
 - 🧩 Solved **100+ LeetCode problems**  
-- 🧠 Built & extended **`sandyie_read`** library  
-- ☁️ Interned at **Emmvee (Cloud & Finance)** — integrated tech for MSME solutions  
-- 🎯 Organized inter-college fest as **Secretary**, managing ₹7,000+ alumni fund  
+- 🧠 Built & extended **`sandyie_read`** library   
 - 🎓 Completed IBM’s *Digital Analytics & Regression* and Infosys’s *Probability & Statistics using R* courses  
 
 ---
