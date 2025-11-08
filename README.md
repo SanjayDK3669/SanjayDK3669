@@ -22,7 +22,7 @@
 
   <!-- ⚡ LeetCode -->
   <a href="https://leetcode.com/u/sanjay_dk/">
-    <img src="https://img.shields.io/badge/⚡%20LeetCode%20Solved-120-0077B5?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117&color=0077B5&cacheSeconds=3600" alt="LeetCode Problems Solved" />
+    <img src="https://img.shields.io/badge/⚡%20LeetCode%20Solved-132-0077B5?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117&color=0077B5&cacheSeconds=3600" alt="LeetCode Problems Solved" />
   </a>
 
   <!-- 🏆 HackerRank -->
