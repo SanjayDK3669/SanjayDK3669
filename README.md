@@ -10,10 +10,24 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0077B5,100:00A0DC&text=👋%20Hey%20there!%20I'm%20Sandyie%20💙&fontAlignY=40&fontSize=38&fontColor=ffffff&desc=AI%20%26%20Data%20Scientist%20|%20NLP%20%26%20CV%20Enthusiast%20|%20MLOps%20Learner&descAlignY=60&descAlign=50" />
 </p>
 
-<!-- 🧑‍💻 Circular Profile Photo -->
-<p align="center">
-  <img src="https://sandyie.in/images/sanju.jpg" alt="Sandyie Profile Photo" width="160" style="border-radius: 50%; border: 4px solid #0077B5; box-shadow: 0 0 10px rgba(0,0,0,0.3);" />
-</p>
+<!-- 🧑‍💻 Glassmorphic Circular Profile Photo -->
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <div style="
+      width: 160px;
+      height: 160px;
+      border-radius: 50%;
+      overflow: hidden;
+      background: rgba(255, 255, 255, 0.1);
+      backdrop-filter: blur(10px);
+      box-shadow: 0 0 20px rgba(0, 119, 181, 0.7), 0 0 40px rgba(0, 160, 220, 0.5);
+      border: 3px solid rgba(255,255,255,0.3);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  ">
+    <img src="https://sandyie.in/images/sanju.jpg" alt="Sandyie Profile Photo" width="160" height="160" style="border-radius: 50%;" />
+  </div>
+</div>
 
 <!-- 🎯 Profile Badges Row -->
 <p align="center">
