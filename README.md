@@ -1,53 +1,105 @@
-<!-- ✨ Profile Banner -->
+<!-- 🌐 Quick Access -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0077B5,100:00A0DC&text=Sandyie%20%F0%9F%92%BB%20|%20Data%20Scientist&fontAlignY=40&fontSize=35&fontColor=ffffff" />
+  <a href="https://sandyie.in">
+    <img src="https://img.shields.io/badge/🌐 Visit%20My%20Website-sandyie.in-0077B5?style=for-the-badge" />
+  </a>
 </p>
 
-<!-- 👋 Intro Section -->
-<h2 align="center">Hi there, I'm <span style="color:#0077B5;">Sandyie</span> 👋</h2>
-
+<!-- 🌈 Animated Gradient Banner -->
 <p align="center">
-  <em>Turning Data into Insights | Passionate about NLP, CV, and Intelligent Systems</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0077B5,100:00A0DC&text=👋%20Hey%20there!%20I'm%20Sandyie%20💙&fontAlignY=40&fontSize=38&fontColor=ffffff&desc=AI%20%26%20Data%20Scientist%20|%20NLP%20%26%20CV%20Enthusiast%20|%20MLOps%20Learner&descAlignY=60&descAlign=50" />
 </p>
+
+<!-- 🧑‍💻 Circular Profile Photo -->
+<p align="center">
+  <img src="https://sandyie.in/images/sanju.jpg" alt="Sandyie Profile Photo" width="160" style="border-radius: 50%; border: 4px solid #0077B5; box-shadow: 0 0 10px rgba(0,0,0,0.3);" />
+</p>
+
+<!-- 🎯 Profile Badges Row -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SanjayDK3669&label=Profile%20Views&color=0077B5&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/SanjayDK3669?label=Followers&style=flat-square&color=00A0DC" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20NLP-0077B5?style=flat-square" />
+</p>
+
+<!-- 💫 Centered Typing Intro -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=550&lines=AI+Engineer+%7C+Data+Scientist;Building+Intelligent+Systems;Exploring+NLP+and+Computer+Vision;Crafting+Smart+ML+Pipelines;Learning+MLOps+and+Agentic+AI+💡" />
+</h2>
 
 ---
 
-### 🧠 About Me  
-🎓 I’m pursuing an **MSc in Data Science** from *Mangalore*.  
-💡 I’m passionate about **Machine Learning**, **NLP**, and **Computer Vision** — with a goal to build **real-world AI solutions**.  
-🚀 Currently improving my ML expertise (35–40% ➜ aiming for 70%+) while working on: 
-- 🧰 Full-stack AI projects & MLOps pipelines  
+## 🧠 About Me  
+
+- 🎓 Pursuing **MSc in Data Science** (*Mangalore*)  
+- 🤖 Passionate about **AI Engineering, NLP, CV & RAG Systems**  
+- 🚀 Currently scaling ML knowledge from **40% ➜ 70%+**  
+- 🧰 Building **end-to-end AI applications & MLOps pipelines**  
+- 💬 Love learning, sharing knowledge & creating useful tech  
 
 ---
 
-### ⚙️ Skills & Tools  
+## ⚙️ Tech Stack  
 
 <div align="center">
 
-| Category | Tools |
-|-----------|--------|
-| **Languages** | 🐍 Python • 🧮 R • 💾 SQL • 💻 C++ |
-| **Data & Analytics** | 📊 Power BI • 📈 SPSS • 🧠 Pandas • NumPy • Stats |
-| **Machine Learning** | 🤖 Scikit-Learn • TensorFlow • PyTorch (Basics) |
-| **Cloud & MLOps** | ☁️ AWS • GCP • Docker • CI/CD |
-| **Developer Tools** | 💡 GitHub • VS Code • Jupyter • Colab |
+### 🖥️ Programming Languages  
+<img src="https://skillicons.dev/icons?i=python,r,cpp,java,html,css,javascript,bash,git,github,gitlab&theme=dark" />
+
+### 🗄️ Databases  
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql&theme=dark" />
+
+---
+
+### 🤖 AI / ML Engineering  
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,keras,sklearn,opencv&theme=dark" />  
+<br>
+<img src="https://img.shields.io/badge/LangChain-0052CC?style=for-the-badge&logo=chainlink&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-0077B5?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD700?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Agentic%20AI-111111?style=for-the-badge&logo=ai&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG%20Pipelines-00A0DC?style=for-the-badge&logo=neuralink&logoColor=white" />
+<img src="https://img.shields.io/badge/NLTK-154360?style=for-the-badge&logo=python&logoColor=white" />
+
+---
+
+### ☁️ Cloud & Deployment  
+<img src="https://skillicons.dev/icons?i=gcp,azure,docker,cloudflare&theme=dark" />  
+<br>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+
+---
+
+### 🧩 Data Technologies  
+<img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter&theme=dark" />  
+<br>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache&logoColor=white" />
+<img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-003B57?style=for-the-badge&logo=python&logoColor=white" />
 
 </div>
 
 ---
 
-### 🌟 Featured Projects  
+## 🚀 Featured Projects  
 
-| 🚀 Project | 💬 Description |
-|-------------|----------------|
-| [**sandyie_read**](https://github.com/SanjayDK3669/sandyie_read) | A Python library for reading multiple file formats (CSV, Parquet, Pickle, ZIP, BIN, HTML) easily. |
-| [**Data Science Projects**](https://github.com/SanjayDK3669/Data_science_projects) | End-to-end projects covering analysis, visualization, and ML models. |
-| [**DSA in Python**](https://github.com/SanjayDK3669/DSA-in-python) | 100+ DSA problems solved in Python for logical & technical growth. |
-| [**ML Demo Deploy**](https://github.com/SanjayDK3669/ML_demo_deploy) | A practical demo of ML model deployment using Flask & Cloud. |
+| Project | Description |
+|---|---|
+| [**sandyie_read**](https://github.com/SanjayDK3669/sandyie_read) | A Python library for reading CSV, Parquet, Pickle, ZIP, BIN, HTML & more |
+| [**Data Science Projects**](https://github.com/SanjayDK3669/Data_science_projects) | Full-stack ML & analytics projects |
+| [**ML Demo Deploy**](https://github.com/SanjayDK3669/ML_demo_deploy) | ML model deployment demo (Flask + Cloud) |
+| [**DSA in Python**](https://github.com/SanjayDK3669/DSA-in-python) | 100+ DSA problems solved in Python |
 
 ---
 
-### 📈 GitHub Stats  
+## 📈 GitHub Stats  
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SanjayDK3669&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -60,36 +112,36 @@
 
 ---
 
-### 💬 Let’s Connect  
+## 🏆 Achievements  
+
+- 💻 Solved **100+ LeetCode problems**  
+- 🧠 Built **sandyie_read** Python library  
+- 🎓 Completed **IBM Digital Analytics & Regression**  
+- 📊 Completed **Probability & Statistics using R — Infosys**
+
+---
+
+## 🤝 Let's Connect  
 
 <p align="center">
-  <a href="https://sandyie.in"><img src="https://img.shields.io/badge/🌐%20Website-sandyie.in-0077B5?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/sandyie"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://github.com/SanjayDK3669"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://sandyie.in"><img src="https://img.shields.io/badge/🌐%20Website-sandyie.in-0077B5?style=for-the-badge"></a>
+  <a href="https://linkedin.com/in/sandyie"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/SanjayDK3669"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"></a>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-F9AE00?style=for-the-badge&logo=leetcode&logoColor=white"></a>
 </p>
 
 ---
 
-### 🏆 Achievements & Highlights  
-- 🧩 Solved **100+ LeetCode problems**  
-- 🧠 Built & extended **`sandyie_read`** library   
-- 🎓 Completed IBM’s *Digital Analytics & Regression* and Infosys’s *Probability & Statistics using R* courses  
-
----
-
-### ✨ Fun Extras  
+## ✨ Extras  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SanjayDK3669&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00A0DC,100:0077B5&section=footer" />
