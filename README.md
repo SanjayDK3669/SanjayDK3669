@@ -7,38 +7,19 @@
 
 <!-- 🌈 Animated Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0077B5,100:00A0DC&text=👋%20Hey%20there!%20I'm%20Sandyie%20💙&fontAlignY=40&fontSize=38&fontColor=ffffff&desc=AI%20%26%20Data%20Scientist%20|%20NLP%20%26%20CV%20Enthusiast%20|%20MLOps%20Learner&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0077B5,100:00A0DC&text=Sandyie%20&fontAlignY=40&fontSize=42&fontColor=ffffff&desc=AI%20Engineer%20|%20Data%20Scientist%20|%20MLOps%20Enthusiast&descAlignY=65&descAlign=50" />
 </p>
 
-<!-- 🧑‍💻 Glassmorphic Circular Profile Photo -->
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <div style="
-      width: 160px;
-      height: 160px;
-      border-radius: 50%;
-      overflow: hidden;
-      background: rgba(255, 255, 255, 0.1);
-      backdrop-filter: blur(10px);
-      box-shadow: 0 0 20px rgba(0, 119, 181, 0.7), 0 0 40px rgba(0, 160, 220, 0.5);
-      border: 3px solid rgba(255,255,255,0.3);
-      display: flex;
-      justify-content: center;
-      align-items: center;
-  ">
-    <img src="https://sandyie.in/images/sanju.jpg" alt="Sandyie Profile Photo" width="160" height="160" style="border-radius: 50%;" />
-  </div>
-</div>
-
-<!-- 🎯 Profile Badges Row -->
+<!-- 🎯 Badges Row -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SanjayDK3669&label=Profile%20Views&color=0077B5&style=flat-square" />
   <img src="https://img.shields.io/github/followers/SanjayDK3669?label=Followers&style=flat-square&color=00A0DC" />
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20NLP-0077B5?style=flat-square" />
 </p>
 
-<!-- 💫 Centered Typing Intro -->
+<!-- ✨ Typing Intro -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=550&lines=AI+Engineer+%7C+Data+Scientist;Building+Intelligent+Systems;Exploring+NLP+and+Computer+Vision;Crafting+Smart+ML+Pipelines;Learning+MLOps+and+Agentic+AI+💡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=550&lines=Building+Intelligent+Systems;Exploring+NLP+and+Computer+Vision;Mastering+MLOps+and+Agentic+AI;Turning+Data+into+Impactful+Insights" />
 </h2>
 
 ---
@@ -113,7 +94,7 @@
 
 ---
 
-## 📈 GitHub Stats  
+## 📊 GitHub Stats  
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SanjayDK3669&show_icons=true&theme=tokyonight&hide_border=true" />
