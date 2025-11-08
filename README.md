@@ -17,6 +17,37 @@
   <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20NLP-0077B5?style=flat-square" />
 </p>
 
+<!-- 🟢 Dynamic Rectangular Counters -->
+<p align="center" style="margin-top: 20px;">
+
+  <!-- ⚡ LeetCode -->
+  <a href="https://leetcode.com/u/sanjay_dk/">
+    <img src="https://img.shields.io/badge/⚡%20LeetCode%20Solved-120-0077B5?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117&color=0077B5&cacheSeconds=3600" alt="LeetCode Problems Solved" />
+  </a>
+
+  <!-- 🏆 HackerRank -->
+  <a href="https://www.hackerrank.com/profile/dksanjay391">
+    <img src="https://img.shields.io/badge/🏆%20HackerRank%20Solved-75-00A0DC?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0d1117&color=00A0DC&cacheSeconds=3600" alt="HackerRank Problems Solved" />
+  </a>
+
+  <!-- 📄 Resume -->
+  <a href="https://sandyie.in/SanjayDK_Resume.pdf">
+    <img src="https://img.shields.io/badge/📄%20Resume-View%20Now-0077B5?style=for-the-badge&logo=readme&logoColor=white&labelColor=0d1117&color=0077B5&cacheSeconds=3600" alt="Resume Link" />
+  </a>
+
+  <!-- 🌐 Website -->
+  <a href="https://sandyie.in/">
+    <img src="https://img.shields.io/badge/🌐%20Website-Visit%20Now-00A0DC?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117&color=00A0DC&cacheSeconds=3600" alt="Website Link" />
+  </a>
+
+  <!-- 💼 LinkedIn -->
+  <a href="https://linkedin.com/in/sandyie">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect%20Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117&color=0A66C2&cacheSeconds=3600" alt="LinkedIn Profile" />
+  </a>
+
+</p>
+
+
 <!-- ✨ Typing Intro -->
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=550&lines=Building+Intelligent+Systems;Exploring+NLP+and+Computer+Vision;Mastering+MLOps+and+Agentic+AI;Turning+Data+into+Impactful+Insights" />
