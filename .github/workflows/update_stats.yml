@@ -20,11 +20,11 @@ jobs:
       - name: Install Dependencies
         run: pip install requests PyGithub
         
-      - name: Debug — Show File Content
-        run: cat .github/scripts/update_stats.py || echo "File not found"
+      # - name: Debug — Show File Content
+      #   run: cat .github/scripts/update_stats.py || echo "File not found"
 
-      - name: Run Stats Script
-        run: python .github/scripts/update_stats.py
+      # - name: Run Stats Script
+      #   run: python .github/scripts/update_stats.py
 
       - name: Commit Changes
         run: |
